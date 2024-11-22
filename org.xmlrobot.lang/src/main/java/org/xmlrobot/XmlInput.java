@@ -1,5 +1,5 @@
 package org.xmlrobot;
 
-public class Hola2 {
+public class XmlInput {
 
 }
