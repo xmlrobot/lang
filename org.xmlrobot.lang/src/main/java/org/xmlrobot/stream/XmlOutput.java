@@ -1,4 +1,4 @@
-package org.xmlrobot;
+package org.xmlrobot.stream;
 
 public class XmlOutput {
 
